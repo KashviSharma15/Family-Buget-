@@ -1,4 +1,4 @@
-# 📊 Personal Financial Dashboard using Microsoft Excel
+# Personal Financial Dashboard using Microsoft Excel
 
 ## Overview
 
@@ -59,7 +59,7 @@ This project is an interactive Personal Financial Dashboard built using Microsof
 ## Project Structure
 
 ```
-📂 Personal Financial Dashboard
+Personal Financial Dashboard
 
 │── Dashboard
 
